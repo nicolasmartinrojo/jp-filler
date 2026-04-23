@@ -1,0 +1,32 @@
+{
+    "firstName": "Mi nombre",
+    "lastName": "Mi Apellido",
+    "email": "mimail@gmail.com",
+    "phone": "telefono",
+    "linkedin": "mi linkedin",
+    "github": "Mi github",
+    "website": "mi website",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "salary": "100",
+    "yearsOfExperience": "15",
+    "workAuthorized": "Yes",
+    "requiresSponsorship": "No",
+    "coverLetter": "",
+    "selectOptions": {
+        "workAuthorized": {
+            "emptyLabel": "---",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        "requiresSponsorship": {
+            "emptyLabel": "---",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        }
+    }
+}

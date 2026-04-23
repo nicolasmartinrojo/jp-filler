@@ -1,0 +1,6 @@
+node_modules/
+out/
+.next/
+.env*
+public/original.json
+.claude/

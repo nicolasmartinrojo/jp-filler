@@ -2,5 +2,5 @@ node_modules/
 out/
 .next/
 .env*
-public/original.json
+public/config.json
 .claude/
